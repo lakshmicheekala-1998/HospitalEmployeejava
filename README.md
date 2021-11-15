@@ -1,1 +1,4 @@
 # HospitalEmployeejava
+In this we have implemented Inheritance,Constructors and Overriding concepts. First we have created HospitalEmployee class as Parent class we have defined protected two elements name and number ,implemented getter and setter methods for name and number,Added toString() method and implemented work method to print. 
+Declared child classs Doctor and Nurse whose parent class is HospitalEmploye .Doctor class has variable speciality and Nurse class hasvariable numOfPatients ,we are creating constructors,toString() methods overiding work method .
+Declare child class surgeon whose parent class is Doctor .Surgeon has variable operating we are creating constructors,toString() methods and overriding work method. We have created hospital class and created objects and called them We are printing the output.
